@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/sbrenner"><img src="https://api.daily.dev/devcards/228242f6f855462dba70dbc5555b76b8.png?r=f86" width="400" alt="Stefanie Brenner's Dev Card"/></a>
+<a href="https://app.daily.dev/sbrenner"><img src="https://api.daily.dev/devcards/228242f6f855462dba70dbc5555b76b8.png?r=if7" width="400" alt="Stefanie Brenner's Dev Card"/></a>
